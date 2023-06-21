@@ -1,3 +1,3 @@
 # Diwali_Sales-Data-Analysis
 
-This is EDA project of Diwali Sales
+This is an Exploratory Data Analysis(EDA) project for Diwali Sales
